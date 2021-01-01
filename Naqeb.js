@@ -64,7 +64,7 @@ client.on("message", async message => {
 ━──╮•╭──━
 
 __ [Vote](link top gg) __  
-__ [invite](invitebot) __  __ [Support](https://discord.gg/cetGQvWD3h) __
+__ [invite](https://discord.com/api/oauth2/authorize?client_id=788160808931819561&permissions=8&scope=bot) __  __ [Support](https://discord.gg/cetGQvWD3h) __
 
 `);
     message.channel.send(help);
